@@ -21,4 +21,4 @@ Question 4:Calculate the maximum and minimum NDVI value of your NDVI map. Upload
 
 [Answer 4](https://code.earthengine.google.com/a076601ea58e7a853a04e3390dabb775)
 
-[Screenshot]()
+[Screenshot](https://github.com/Anamikachow56/Assignment-11--Indices-calculation-from-imagery/blob/1f315c6dcce273b3551ccaebe58ce62097778d4a/min%20%26%20max%20value%20of%20NDVI.png)
