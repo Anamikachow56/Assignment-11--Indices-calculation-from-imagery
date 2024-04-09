@@ -15,7 +15,7 @@ Question 3:Make a NDSI map of your Upazila by using Sentinel-2 imagery for 2021.
 [Answer 3](https://code.earthengine.google.com/8f90fea27c86273b5bdb9cdc53a0d55e)
 
 
-[Screenshot]()
+[Screenshot](https://github.com/Anamikachow56/Assignment-11--Indices-calculation-from-imagery/blob/869368b91a59b9e96d58e3a9bd9bf46e731cb148/NDSI.png)
 
 Question 4:Calculate the maximum and minimum NDVI value of your NDVI map. Upload the code, code link, and screenshot in your GitHub repo. Submit the repo link.
 [Answer 4]
